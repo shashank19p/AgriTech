@@ -1,4 +1,4 @@
-# 3rd Sem Python Project – Smart Crop Advisory System for Small and Marginal Farmers
+# Python Project – Smart Crop Advisory System for Small and Marginal Farmers
 
 Welcome to the Smart Crop Advisory System! This application uses Machine Learning to recommend the best crop for your soil and environment, alongside making practical fertilizer suggestions. It also includes an integration with the OpenWeatherMap API for live checking of weather metrics in any given city.
 
